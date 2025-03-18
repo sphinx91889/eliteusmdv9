@@ -46,6 +46,8 @@ const PageTemplate: React.FC<PageMetaData> = ({
           data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" 
           data-widget-id="67c0f6cba81d1ca4bed77244"  
         ></script>
+        <h1>EliteUSMD: Expert Medical Director Services for Compliance & Safety</h1>
+        <h2>Start Your Journey with EliteUSMD Today</h2>
       </body>
     </html>
   );
