@@ -12,7 +12,7 @@ export const pages: PageMetaData[] = [
     url: "index.html",
     bundleEntryPoint: "/src/main.jsx",
     title: "Medical Director Services for Healthcare & Aesthetic Practices",
-    description: "Expert medical director services ensuring compliance, patient safety, and quality care for healthcare and aesthetic practices across the U.S.",
+    description: "EliteUSMD provides expert medical director services ensuring compliance, safety, and high-quality care for healthcare and aesthetic practices.",
     keywords: "medical director, healthcare compliance, aesthetic practice, medical oversight, physician collaboration",
     ogImage: "https://storage.googleapis.com/msgsndr/8ngdMjJjmckUW3DffAfv/media/67c0f1541ae850c45b73eb47.png",
 		schema: {
